@@ -27,4 +27,3 @@ while True:
             break
     except ValueError:
         print("Please enter a valid integer for the password length.")
-        #.\project1_env\Scripts\Activate.ps1 to activate the virtual environment in PowerShell
